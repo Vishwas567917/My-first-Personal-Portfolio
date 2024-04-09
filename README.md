@@ -26,7 +26,5 @@ Feel free to clone or download the repository to explore the code and customize 
 
 Contributions are welcome! If you have any suggestions for improvements or find any issues, please open an issue or submit a pull request.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
